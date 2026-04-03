@@ -1,6 +1,27 @@
 # Knowledge of Self Trivia! &nbsp; [![Download](https://img.shields.io/badge/Download-APK-brightgreen?style=for-the-badge&logo=android)](https://github.com/BrianJr03/kos-app-official/releases/latest/download/kos-app.apk)
 
-Laugh and learn as you venture through Black history and culture ranging from Black music, scholars, sayings/doings, movies, activists, inventors, and more! For me info, please visit https://www.brotherjamaalnelson.com/
+Laugh and learn as you venture through Black history and culture ranging from Black music, scholars, sayings/doings, movies, activists, inventors, and more! For more info, please visit https://www.brotherjamaalnelson.com/
+
+---
+
+## 📱 Availability
+
+> 🚧 **Coming Soon to the Google Play Store!**
+> In the meantime, you can sideload the APK directly onto your Android device using the steps below.
+
+### How to Sideload the APK
+
+1. **Download the APK** using the button above
+2. **Enable Unknown Sources** on your device:
+   - Go to **Settings → Security** (or **Settings → Apps → Special App Access → Install Unknown Apps**)
+   - Enable **Install from Unknown Sources** for your browser or file manager
+3. **Open the downloaded APK** file from your notifications or Downloads folder
+4. Tap **Install** and follow the prompts
+5. Once installed, tap **Open** — enjoy! 🎉
+
+> ⚠️ You may see a warning from Android about installing apps outside the Play Store. This is normal for sideloaded apps — the APK is safe and sourced directly from this repository.
+
+---
 
 <table>
   <tr>
