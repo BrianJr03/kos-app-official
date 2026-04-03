@@ -1,4 +1,4 @@
-# Knowledge of Self Trivia! &nbsp; [![Download](https://img.shields.io/badge/Download-APK-brightgreen?style=for-the-badge&logo=android)](https://github.com/BrianJr03/kos-app-official/releases/download/2.1.0/YOUR_APK_NAME.apk)
+# Knowledge of Self Trivia! &nbsp; [![Download](https://img.shields.io/badge/Download-APK-brightgreen?style=for-the-badge&logo=android)](https://github.com/BrianJr03/kos-app-official/releases/download/2.1.0/kos-app.apk)
 
 Laugh and learn as you venture through Black history and culture ranging from Black music, scholars, sayings/doings, movies, activists, inventors, and more! For me info, please visit https://www.brotherjamaalnelson.com/
 
